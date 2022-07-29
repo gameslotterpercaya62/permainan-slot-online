@@ -1,0 +1,18 @@
+{
+  "name": "permainan-slot-online",
+  "main": "./lib/permainan-slot-online",
+  "version": "1.0.0",
+  "description": "Situs Judi Info Gacor Permainan Slot Online Deposit 10Rb",
+  "keywords": ["habanero slot","slot terbaik","game slot terbaik","game slot terbaik","agen slot terbaik","agentotoplay","bandar slot online"],
+
+  "activationCommands": {
+    "atom-workspace": "permainan-slot-online:toggle"
+  },
+  "repository": "https://github.com/gameslotterpercaya62/permainan-slot-online",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

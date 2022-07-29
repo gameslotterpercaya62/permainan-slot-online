@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle permainan-slot-online",
+        "command": "permainan-slot-online:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "permainan-slot-online",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "permainan-slot-online:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
